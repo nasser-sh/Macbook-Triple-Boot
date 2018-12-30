@@ -97,16 +97,9 @@ Unfortunately, it seems that most gtk3 themes from [gnome-look.org](https://www.
 
 ### Icons
 
-I like to switch between 2 sets of icons:
-
-1. Faenza Ambience, which is available in the Ubuntu repositories:
+Faenza Ambience, which is available in the Ubuntu repositories:
 
 ```sudo apt install faenza-icon-theme```
-
-2. [Flat Remix](https://www.gnome-look.org/p/1012430/)
-3. [Antu](https://www.gnome-look.org/p/1188266/)
-
-Unfortunately, Antu is incomplete at the time of this writing, but it's a work in progress. Let's hope it gets updates. The application icons are great, but the HUD icons are not there yet. 
 
 ### Unity Tweak Tool
 

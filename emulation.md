@@ -1,3 +1,4 @@
+# Console-Specific 
 ## PlayStation
 ### Ripping a game CD on Linux
 Using any CD, DVD or Bly Ray drive, insert the game CD into the drive. Make sure the device is unmounted. You can unmount it using the following command:
@@ -16,3 +17,8 @@ You will end up with the necessary `.bin` and `.cue` files.
 Using any DVD or Blu Ray drive, insert the game DVD into the drive and type
 
     ddrescue /dev/sr0 <game-name>.iso
+
+# Emulator Settings
+## PlayStation
+## Beetle-HW
+1. Settings -> Drivers -> Video: vulkan (gl glitches for MGS)

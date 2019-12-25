@@ -30,4 +30,5 @@ Using any DVD or Blu Ray drive, insert the game DVD into the drive and type
     * Internal Resolution (4x Native for 1080p screens, 5x Native for 4K screens)
     * Advanced Settings and Hacks -> [x] Align Sprite (Tekken Tag Tournament lines across screen glitches without it)
     * Advanced Settings and Hacks -> SkipDraw Range: 0 (Okami strange textures for brushes)
-    * Emulation Settings -> Speedhacks -> [x] MTVU (Performance Boost, no observed glitches)
+
+2. Emulation Settings -> Speedhacks -> [x] MTVU (Performance Boost, no observed glitches)
